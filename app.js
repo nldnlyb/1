@@ -218,7 +218,7 @@ const data = [
     {
         song: 'Tháng tư là lời nói dối của em',
         singer: 'Hà Anh Tuấn',
-        avatar: './images/37.JPEG',
+        avatar: './images/37.JPG',
         mp3: './music/37.mp3'
     },
     {
